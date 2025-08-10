@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on QuackMC Network by HyperFast Studio<br>🌱 I’m currently learning Le Huu Trac Hight School. DakLak, Vietnam<br>👨‍💻 All of my projects are available at https://github.com/quangdev05?tab=repositories<br>💬 Ask me about https://discord.gg/6daJqPUet9<br>📫 How to reach me quangdev05@gmail.com
+🔭 I’m currently working on HyperFast Studio<br>🌱 I’m currently learning Le Huu Trac Hight School. DakLak, Vietnam<br>👨‍💻 All of my projects are available at https://github.com/quangdev05?tab=repositories<br>💬 Ask me about https://discord.gg/6daJqPUet9<br>📫 How to reach me quangdev05@gmail.com
 
 
 ## 🌐 Socials:
