@@ -1,8 +1,6 @@
 # Hi 👋, I'm GnauQ
 
-### A passionate Java developer
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quangdev05" alt="quangdev05" /></a> </p>
+### A passionate Website developer
 
 - 🔭 I'm currently working on **HyperFast Technology**
 
