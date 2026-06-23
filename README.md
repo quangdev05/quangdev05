@@ -1,4 +1,4 @@
-# Hi 👋, I'm GnauQ
+# Hi 👋, I'm Quang
 
 ### A passionate Website/Java developer
 
