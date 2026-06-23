@@ -1,6 +1,6 @@
 # Hi 👋, I'm GnauQ
 
-### A passionate Website developer
+### A passionate Website/Java developer
 
 - 🔭 I'm currently working on **HyperFast Technology**
 
