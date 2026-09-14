@@ -8,11 +8,11 @@
 
 - 👯 I'm looking to collaborate on **https://github.com/quangdev05?tab=repositories**
 
-- 💬 Ask me about **https://hyperfast.io.vn**
+- 💬 Ask me about **https://hyperfast.vn**
 
-- 📫 How to reach me **quangdev05@hyperfast.io.vn**
+- 📫 How to reach me **quangdev05@hyperfast.vn**
 
-- 👨‍💻 All of my projects are available at **[https://hyperfast.io.vn](https://hyperfast.io.vn)**
+- 👨‍💻 All of my projects are available at **[https://hyperfast.vn](https://hyperfast.vn)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
