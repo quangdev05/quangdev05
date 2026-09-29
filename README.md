@@ -27,7 +27,7 @@
 
 <p><img align="left" src="https://github-readme-stats.shion.dev/api?username=QuangDev05&show_icons=true&locale=en&layout=compact" alt="quangdev05" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.shion.dev/api?username=quangdev05&show_icons=true&locale=en" alt="quangdev05" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.shion.dev/api/top-langs/?username=quangdev05&show_icons=true&locale=en" alt="quangdev05" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=quangdev05&" alt="quangdev05" /></p>
 
